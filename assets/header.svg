@@ -1,0 +1,28 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#08090B"/><stop offset="0.55" stop-color="#140B0F"/><stop offset="1" stop-color="#260E17"/></linearGradient>
+  <linearGradient id="accent" x1="100" y1="0" x2="1040" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#A9384C"/><stop offset="0.48" stop-color="#F06A7C"/><stop offset="1" stop-color="#6D2435"/></linearGradient>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(994 50) rotate(142) scale(482 310)"><stop stop-color="#BE425D" stop-opacity="0.22"/><stop offset="1" stop-color="#260E17" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#F2A5B2" stroke-opacity="0.045"/></pattern>
+  <linearGradient id="window" x1="64" y1="54" x2="415" y2="265" gradientUnits="userSpaceOnUse"><stop stop-color="#21131A"/><stop offset="1" stop-color="#0C0B0E"/></linearGradient>
+</defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="24" fill="url(#glow)"/>
+<rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="318" rx="23" stroke="url(#accent)" stroke-opacity="0.52" stroke-width="2"/>
+<rect x="64" y="54" width="352" height="212" rx="16" fill="url(#window)" stroke="#70404B"/>
+<path d="M64 70C64 61.163 71.163 54 80 54H400C408.837 54 416 61.163 416 70V88H64V70Z" fill="#28171D"/>
+<circle cx="86" cy="71" r="5" fill="#FF7979"/><circle cx="104" cy="71" r="5" fill="#F5BE77"/><circle cx="122" cy="71" r="5" fill="#E16E82"/>
+<g font-family="ui-monospace,Consolas,monospace"><text x="84" y="122" font-size="16" fill="#C39DA7">$ whoami</text><text x="84" y="151" font-size="18" font-weight="700" fill="#FFF0F2">jefferson_kisley</text><text x="84" y="188" font-size="15" fill="#C39DA7">$ focus --current</text><text x="84" y="217" font-size="15" fill="#F06A7C">solve · automate · document</text></g>
+<rect x="84" y="237" width="10" height="3" rx="1.5" fill="#F09AA7">
+  <animate
+    attributeName="opacity"
+    values="1;1;0;0;1"
+    keyTimes="0;0.45;0.5;0.95;1"
+    dur="1.2s"
+    repeatCount="indefinite"
+    />
+  </rect>
+<g font-family="Inter,Arial,sans-serif"><text x="478" y="102" font-family="Consolas,monospace" font-size="15" font-weight="600" letter-spacing="3" fill="#E17B8D">SUPORTE · INFRA · SOFTWARE</text><text x="474" y="159" font-size="48" font-weight="750" letter-spacing="-1.6" fill="#F8EEF0">Jefferson Kisley</text><rect x="478" y="180" width="548" height="3" rx="1.5" fill="url(#accent)"/><text x="478" y="220" font-size="20" font-weight="500" fill="#D1B6BC">Tecnologia que funciona fora do tutorial.</text><text x="478" y="251" font-family="Consolas,monospace" font-size="14" fill="#B68F99">Linux / redes / automação / web / mobile</text></g>
+<g opacity=".75"><circle cx="1096" cy="72" r="4" fill="#F06A7C"/><path d="M1096 82V116" stroke="#F06A7C" stroke-opacity=".6"/><circle cx="1096" cy="126" r="4" fill="#D14D66"/><path d="M1096 136V170" stroke="#D14D66" stroke-opacity=".6"/><circle cx="1096" cy="180" r="4" fill="#8D3344"/></g>
+</svg>
