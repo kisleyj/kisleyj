@@ -1,21 +1,21 @@
 
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Jefferson Kisley — suporte, infraestrutura e desenvolvimento" />
+  <img src="./assets/header.svg" width="100%" alt="Jefferson Kisley: suporte, infraestrutura e desenvolvimento" />
 </div>
 
 <br>
 
 ## Opa, eu sou o Jefferson! 👋
 
-Trabalho com tecnologia e gosto de entender como as coisas funcionam — principalmente quando elas deixam de funcionar.
+Gosto de entender como as coisas funcionam, principalmente quando elas param de funcionar.
 
-Atualmente, faço parte da **BlueTec, parceira da Zucchetti**, atuando com suporte aos sistemas de gestão da linha **Clipp**. Meu dia a dia envolve implantação, configurações fiscais, documentos eletrônicos, diagnóstico de problemas e apoio a empresas que dependem da tecnologia para manter suas operações funcionando.
+Trabalho na **BlueTec, parceira da Zucchetti**, no suporte aos sistemas de gestão da linha **Clipp**. Faço implantação, configuração fiscal, emissão de documentos eletrônicos e diagnóstico de problemas para empresas que dependem do sistema para trabalhar.
 
-Fora do suporte, gosto de explorar Linux, redes, servidores e desenvolvimento. Foi essa curiosidade que me levou a montar meu próprio homelab e transformar programação e automação em ferramentas para resolver problemas do mundo real.
+Fora do suporte, mexo com Linux, redes, servidores e programação. Por curiosidade montei um homelab em casa, e também escrevo scripts e automações para problemas que aparecem no trabalho.
 
 ---
 
-### 💻 Por onde me aventuro
+### Por onde me aventuro
 
 | Área | O que faço |
 | :--- | :--- |
@@ -23,7 +23,7 @@ Fora do suporte, gosto de explorar Linux, redes, servidores e desenvolvimento. F
 | **Infraestrutura & redes** | Linux, Docker, NAS, MikroTik, VPNs e acesso remoto. |
 | **Desenvolvimento** | Aplicações web e mobile, scripts e automações. |
 
-### 🛠️ Tecnologias e ferramentas
+### Tecnologias e ferramentas
 
 <div align="center">
   <a href="https://www.kernel.org/" title="Linux">
@@ -78,15 +78,15 @@ Fora do suporte, gosto de explorar Linux, redes, servidores e desenvolvimento. F
   </a>
 </div>
 
-### 🚀 Alguns projetos
+### Alguns projetos
 
-- **[Proffy Mobile](https://github.com/kisleyj/proffy-mobile)** — desenvolvimento Android com Kotlin.
-- **[Login App](https://github.com/kisleyj/avaliacao-app-mobile)** — autenticação e interfaces para Android.
-- **[ModernSite](https://github.com/kisleyj/app-fundamento-web)** — desenvolvimento web e construção de interfaces.
-- **Homelab pessoal** — meu laboratório para experimentar Linux, containers, redes e automação.
+- **[proffy-mobile](https://github.com/kisleyj/proffy-mobile)**: app Android em Kotlin.
+- **[avaliacao-app-mobile](https://github.com/kisleyj/avaliacao-app-mobile)**: app Android com tela de login e autenticação.
+- **[app-fundamento-web](https://github.com/kisleyj/app-fundamento-web)**: site em HTML, CSS e JavaScript.
+- **Homelab pessoal**: onde testo Linux, containers, redes e automação.
 
 ---
 
 <div align="center">
-  <sub>Aprendendo, construindo e resolvendo — um problema de cada vez.</sub>
+  <sub>Aprendendo e resolvendo, um problema de cada vez.</sub>
 </div>
