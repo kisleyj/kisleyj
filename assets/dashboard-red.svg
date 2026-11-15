@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="720" viewBox="0 0 1160 720" role="img" aria-label="Painel glass JeffersonOS com estatísticas de repositórios públicos e linguagens de programação">
+<defs>
+  <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08090c"/><stop offset=".52" stop-color="#140a0e"/><stop offset="1" stop-color="#230d13"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f16a7c"/><stop offset=".48" stop-color="#c94e64"/><stop offset="1" stop-color="#74303c"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#352126" stop-opacity=".79"/><stop offset=".54" stop-color="#26151b" stop-opacity=".65"/><stop offset="1" stop-color="#180d13" stop-opacity=".85"/></linearGradient>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe2e5" stop-opacity=".18"/><stop offset=".45" stop-color="#ffe2e5" stop-opacity=".025"/><stop offset="1" stop-color="#ffe2e5" stop-opacity="0"/></linearGradient>
+  <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b2838" stop-opacity=".04"/><stop offset=".65" stop-color="#a12c44" stop-opacity=".12"/><stop offset="1" stop-color="#5d1827" stop-opacity=".13"/></linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="44"/></filter>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#da7c89" stroke-opacity=".04"/></pattern>
+  <clipPath id="clip"><rect x="8" y="8" width="1144" height="704" rx="27"/></clipPath>
+</defs>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+<rect x="6" y="6" width="1148" height="708" rx="28" fill="url(#base)"/>
+<g clip-path="url(#clip)">
+  <circle cx="1090" cy="120" r="190" fill="#9d2641" opacity=".29" filter="url(#blur)"/>
+  <circle cx="70" cy="620" r="200" fill="#731427" opacity=".25" filter="url(#blur)"/>
+  <rect x="6" y="6" width="1148" height="708" fill="url(#aurora)"/>
+  <rect x="6" y="6" width="1148" height="708" fill="url(#grid)"/>
+  <path d="M470 6H855L455 712H150Z" fill="url(#shine)" opacity=".6"/>
+  <path d="M0 543Q210 506 423 550T845 552T1180 519V727H0Z" fill="#11080d" opacity=".55"/>
+</g>
+<rect x="7" y="7" width="1146" height="706" rx="27" fill="none" stroke="url(#edge)" stroke-width="2.5" stroke-opacity=".87"/>
+<path d="M32 8H440" stroke="#e17f90" stroke-opacity=".6" stroke-width="2"/>
+<path d="M860 712H1131" stroke="#8d3344" stroke-opacity=".54" stroke-width="2"/>
+<circle cx="38" cy="39" r="6" fill="#ff655e"/><circle cx="59" cy="39" r="6" fill="#ffd166"/><circle cx="80" cy="39" r="6" fill="#f16a7c"/>
+
+<text x="105" y="45" fill="#e8c7cd" font-size="17" font-weight="500" >jefferson@github:~ / painel</text>
+<text x="36" y="101" fill="#fff2f3" font-size="35" font-weight="750" >JeffersonOS</text>
+<text x="283" y="101" fill="#e0788b" font-size="16" font-weight="500" >// atividade pública</text>
+<text x="36" y="134" fill="#d0abb3" font-size="18" font-weight="400" >Tecnologia que funciona fora do tutorial.</text>
+<text x="1123" y="101" fill="#be9099" font-size="13" font-weight="600" text-anchor="end">SUPORTE  /  INFRA  /  DEV</text>
+<path d="M36 153H1124" stroke="#c37585" stroke-opacity=".27"/>
+<rect x="36" y="174" width="263" height="117" rx="16" fill="url(#glass)" stroke="#ab6571" stroke-opacity=".52"/>
+<path d="M53 175H282" stroke="#f9bdc6" stroke-opacity=".18"/>
+<text x="55" y="204" fill="#d0a5af" font-size="13" font-weight="600" letter-spacing=".6">REPOSITÓRIOS PÚBLICOS</text>
+<text x="54" y="255" fill="#f26c80" font-size="38" font-weight="700" >9</text>
+<text x="126" y="252" fill="#c5a0a9" font-size="13" font-weight="400" >conta GitHub</text>
+<rect x="317" y="174" width="263" height="117" rx="16" fill="url(#glass)" stroke="#ab6571" stroke-opacity=".52"/>
+<path d="M334 175H563" stroke="#f9bdc6" stroke-opacity=".18"/>
+<text x="336" y="204" fill="#d0a5af" font-size="13" font-weight="600" letter-spacing=".6">PROJETOS COM CÓDIGO</text>
+<text x="335" y="255" fill="#f5a1aa" font-size="38" font-weight="700" >5</text>
+<text x="407" y="252" fill="#c5a0a9" font-size="13" font-weight="400" >próprios e forks</text>
+<rect x="598" y="174" width="263" height="117" rx="16" fill="url(#glass)" stroke="#ab6571" stroke-opacity=".52"/>
+<path d="M615 175H844" stroke="#f9bdc6" stroke-opacity=".18"/>
+<text x="617" y="204" fill="#d0a5af" font-size="13" font-weight="600" letter-spacing=".6">LINGUAGENS</text>
+<text x="616" y="255" fill="#dc7587" font-size="38" font-weight="700" >4</text>
+<text x="688" y="252" fill="#c5a0a9" font-size="13" font-weight="400" >nos projetos</text>
+<rect x="879" y="174" width="263" height="117" rx="16" fill="url(#glass)" stroke="#ab6571" stroke-opacity=".52"/>
+<path d="M896 175H1125" stroke="#f9bdc6" stroke-opacity=".18"/>
+<text x="898" y="204" fill="#d0a5af" font-size="13" font-weight="600" letter-spacing=".6">PROJETOS DESTACADOS</text>
+<text x="897" y="255" fill="#ea7185" font-size="38" font-weight="700" >4</text>
+<text x="969" y="252" fill="#c5a0a9" font-size="13" font-weight="400" >seleção pessoal</text>
+<text x="36" y="333" fill="#d9556a" font-size="17" font-weight="700" >›_  ONDE EU ATUO</text>
+<rect x="36" y="355" width="263" height="87" rx="14" fill="url(#glass)" stroke="#ab6571" stroke-opacity=".4"/>
+<rect x="54" y="374" width="5" height="45" rx="2.5" fill="#d9556a"/>
+<text x="72" y="390" fill="#fff0f1" font-size="19" font-weight="650" >Suporte &amp; sistemas</text>
+<text x="72" y="416" fill="#c19da7" font-size="14" font-weight="400" >Clipp · fiscal · diagnóstico</text>
+<rect x="317" y="355" width="263" height="87" rx="14" fill="url(#glass)" stroke="#ab6571" stroke-opacity=".4"/>
+<rect x="335" y="374" width="5" height="45" rx="2.5" fill="#c94e64"/>
+<text x="353" y="390" fill="#fff0f1" font-size="19" font-weight="650" >Infraestrutura</text>
+<text x="353" y="416" fill="#c19da7" font-size="14" font-weight="400" >Linux · Docker · redes</text>
+<rect x="598" y="355" width="263" height="87" rx="14" fill="url(#glass)" stroke="#ab6571" stroke-opacity=".4"/>
+<rect x="616" y="374" width="5" height="45" rx="2.5" fill="#b8455c"/>
+<text x="634" y="390" fill="#fff0f1" font-size="19" font-weight="650" >Desenvolvimento</text>
+<text x="634" y="416" fill="#c19da7" font-size="14" font-weight="400" >Web · mobile · automação</text>
+<rect x="879" y="355" width="263" height="87" rx="14" fill="url(#glass)" stroke="#ab6571" stroke-opacity=".4"/>
+<rect x="897" y="374" width="5" height="45" rx="2.5" fill="#e3909d"/>
+<text x="915" y="390" fill="#fff0f1" font-size="19" font-weight="650" >Homelab</text>
+<text x="915" y="416" fill="#c19da7" font-size="14" font-weight="400" >NAS · VPN · aprendizado</text>
+<rect x="36" y="469" width="1087" height="199" rx="16" fill="url(#glass)" stroke="#ab6571" stroke-opacity=".48"/>
+<text x="55" y="503" fill="#f9e5e9" font-size="17" font-weight="700" >LINGUAGENS NOS REPOSITÓRIOS</text>
+<text x="55" y="525" fill="#bd97a0" font-size="12" font-weight="400" >Distribuição por bytes de código públicos</text>
+<path d="M586 487V650" stroke="#9b5e69" stroke-opacity=".45"/>
+<text x="611" y="503" fill="#f9e5e9" font-size="17" font-weight="700" >ÚLTIMOS PROJETOS ATUALIZADOS</text>
+<text x="611" y="525" fill="#bd97a0" font-size="12" font-weight="400" >Ordenados pelo último push público</text>
+<text x="56" y="562" fill="#f5e5e8" font-size="14" font-weight="400" >Kotlin</text>
+<rect x="196" y="550" width="225" height="13" rx="5" fill="#27151c"/>
+<rect x="196" y="550" width="225" height="13" rx="5" fill="#f06a88"/>
+<text x="490" y="562" fill="#e9c5cc" font-size="14" font-weight="500" >39,3%</text>
+<text x="56" y="586" fill="#f5e5e8" font-size="14" font-weight="400" >HTML</text>
+<rect x="196" y="574" width="225" height="13" rx="5" fill="#27151c"/>
+<rect x="196" y="574" width="162" height="13" rx="5" fill="#cd445c"/>
+<text x="490" y="586" fill="#e9c5cc" font-size="14" font-weight="500" >28,3%</text>
+<text x="56" y="610" fill="#f5e5e8" font-size="14" font-weight="400" >CSS</text>
+<rect x="196" y="598" width="225" height="13" rx="5" fill="#27151c"/>
+<rect x="196" y="598" width="96" height="13" rx="5" fill="#e391a0"/>
+<text x="490" y="610" fill="#e9c5cc" font-size="14" font-weight="500" >16,7%</text>
+<text x="56" y="634" fill="#f5e5e8" font-size="14" font-weight="400" >JavaScript</text>
+<rect x="196" y="622" width="225" height="13" rx="5" fill="#27151c"/>
+<rect x="196" y="622" width="90" height="13" rx="5" fill="#a73b53"/>
+<text x="490" y="634" fill="#e9c5cc" font-size="14" font-weight="500" >15,8%</text>
+<rect x="608" y="532" width="486" height="35" rx="8" fill="#1d0e14" stroke="#995568" stroke-opacity=".54"/>
+<text x="622" y="554" fill="#fceef0" font-size="15" font-weight="600" >avaliacao-app-mobile</text>
+<text x="1083" y="554" fill="#c39aa5" font-size="13" font-weight="400" text-anchor="end">2025-12-11</text>
+<rect x="608" y="575" width="486" height="35" rx="8" fill="#1d0e14" stroke="#995568" stroke-opacity=".54"/>
+<text x="622" y="597" fill="#fceef0" font-size="15" font-weight="600" >proffy-mobile</text>
+<text x="1083" y="597" fill="#c39aa5" font-size="13" font-weight="400" text-anchor="end">2025-11-29</text>
+<rect x="608" y="618" width="486" height="35" rx="8" fill="#1d0e14" stroke="#995568" stroke-opacity=".54"/>
+<text x="622" y="640" fill="#fceef0" font-size="15" font-weight="600" >app-fundamento-web</text>
+<text x="1083" y="640" fill="#c39aa5" font-size="13" font-weight="400" text-anchor="end">2025-10-04</text>
+<path d="M35 684H1125" stroke="#ba6978" stroke-opacity=".35"/>
+<text x="38" y="702" fill="#c39aa5" font-size="12" font-weight="400" >Fonte: API pública do GitHub · sem contribuições privadas</text>
+<text x="1120" y="702" fill="#e16e82" font-size="12" font-weight="600" text-anchor="end">JEFFERSONOS  /  RED EDITION</text>
+</g></svg>
